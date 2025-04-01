@@ -42,7 +42,7 @@ library(ggplot2)
 # import CSV file with read.csv()
 
 # read-in only first 16 columns
-ibtracs <- "ibtracs.NA.csv"
+ibtracs <- "../ibtracs.NA.csv"
 
 
 # names of first 16 columns
